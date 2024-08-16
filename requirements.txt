@@ -1,7 +1,10 @@
+python==3.10.14
 pandas
+streamlit
 numpy
 matplotlib
 torch
 tqdm
 scikit-learn
-faiss
+transformers
+faiss==1.7.2
