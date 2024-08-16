@@ -6,4 +6,4 @@ torch
 tqdm
 scikit-learn
 transformers
-faiss==1.5.3
+faiss
